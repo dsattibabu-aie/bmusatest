@@ -53,8 +53,6 @@ public interface DbTable {
             String ACTIVE = "active";
             String VALID_FROM = "valid_from";
             String VALID_TO = "valid_to";
-
-
         }
     }
 }
